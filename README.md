@@ -1,0 +1,1 @@
+This allows us to interactively adjust the HSV color range using trackbars, making it easier to detect and track objects based on their color in real-time using OpenCV with Python. Adjust the trackbars until the desired object is properly detected by the mask.
